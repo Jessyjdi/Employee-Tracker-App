@@ -38,7 +38,8 @@ inquirer
           "Add Department",
           "Add Role", 
           "Update Role",
-          "End",
+          "Delete Roles",
+          "End"
       ]
   })
   .then(function(answer) {
